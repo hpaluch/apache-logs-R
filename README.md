@@ -21,7 +21,6 @@ Run
 
 Just run it like:
 
-
-
+	./status_barchart.R
 
 
